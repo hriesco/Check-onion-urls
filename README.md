@@ -8,4 +8,4 @@ Program that reads from a file the lines, it checks if there are any url and tes
 
 ```<input>```  : Is the file where you have the onion urls
 
-```<output>``` : File where you want to write the results of the urls that are active
+```<output>``` : File where you want to write the results of the urls that found active
