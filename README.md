@@ -2,6 +2,9 @@
 Program that reads from a file the lines, it checks if there are any url and test if it's reachable
 
 ## Running
+
+```$ sudo service tor start```
+
 ```$ chmod +x check_onion.sh```
 
 ```$ ./check_onion.sh <input> <output>```
